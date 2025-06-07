@@ -1,4 +1,4 @@
-# Documentación de la Base de Datos - Tienda ARA
+# Documentación de la Base de Datos - DrogueriaC
 
 ## 1. Estructura de Tablas
 
